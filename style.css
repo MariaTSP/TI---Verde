@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa; /* Cor suave que lembra natureza */
+    color: #004d40; /* Cor escura para contraste */
+}
+
+h1, h2 {
+    color: #00796b; /* Verde escuro */
+}
+
+form {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #ebff6a; /* Fundo branco para destaque */
+    border-radius: 8px;
+}
+
+button {
+    background-color: #00796b; /* Verde escuro */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #004d40; /* Verde mais escuro ao passar o mouse */
+}
