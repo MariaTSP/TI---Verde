@@ -1,10 +1,10 @@
 <?php
 session_start(); // Inicia a sessão
 
-$servername = "localhost";
+$servername = "junction.proxy.rlwy.net";
 $username = "root";
-$password = "";
-$dbname = "sustentabilidade";
+$password = "HwflZqMHBPbbgsBasStKAxtXhWMmcZIa";
+$dbname = "railway";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
